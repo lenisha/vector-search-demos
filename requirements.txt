@@ -2,6 +2,7 @@ openai
 numpy
 pandas
 azure-identity
-azure-search-documents
 python-dotenv
 pillow
+azure-search-documents==11.6.0b3
+azure-storage-blob
