@@ -6,4 +6,4 @@
   
 - Learn how [Azure AI Search powers Generative AI[(https://microsoft.sharepoint.com/:v:/t/aiml-cc/EYGo2UkN5EpMpsgswhRACfQBlysyrFoPL6Kbwu_RhsiZbA?e=8MWy9Z) (link to [PPT](https://microsoft.sharepoint.com/:p:/t/aiml-cc/EZt_xcSANetGrpp3QvMEayUBYYwv6DPrUlOIUen04OGjDQ?e=0fP9WG) ) from Community Events
 
-- Azure AI Search Tech Guru Asia [Slides](https://microsoft.sharepoint.com/:p:/r/teams/LearningInfrastructureasaService/_layouts/15/Doc.aspx?sourcedoc=%7BCF1290A5-F044-4FFF-AF09-288E5BB42815%7D&file=Azure%20AI%20Search%20Tech%20Guru%20Asia.pptx&action=edit&mobileredirect=true&share=IQGlkBLPRPD_T68JKI5btCgVAQLMMtnx5xcuBqmbs4F-qpg)
+- Azure AI Search Tech Guru Asia [Slides](https://microsoft.sharepoint.com/:p:/r/teams/LearningInfrastructureasaService/_layouts/15/Doc.aspx?sourcedoc=%7BCF1290A5-F044-4FFF-AF09-288E5BB42815%7D&file=Azure%20AI%20Search%20Tech%20Guru%20Asia.pptx&action=edit&mobileredirect=true&share=IQGlkBLPRPD_T68JKI5btCgVAQLMMtnx5xcuBqmbs4F-qpg) and [Recording](https://microsoft.sharepoint.com/:f:/t/LearningInfrastructureasaService/Ete3sG6KrmVJonnRcTqZWh8Bbx62Y1TGSlfQA-vfiC6CZQ?e=U4U91z)
