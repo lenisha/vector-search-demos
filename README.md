@@ -25,7 +25,7 @@ Basic Azure Search Labs are based on MSLearn Path https://learn.microsoft.com/en
 | ---- | ----------- |
 | [01 - Data Import and Indexing ](./01-ai-search.md)| Index and Search Unstructured Data |
 | [01a - Add BuiltIn Translation Skill ](./https://learn.microsoft.com/en-us/training/modules/implement-advanced-search-features-azure-cognitive-search/05-enhance-index-to-include-multiple-languages)| Enhance an index to include multiple languages |
-| [02 - Add Custom Skill ](./02-ai-search-skill.md)||
+| [02 - Add Custom Skill ](./02-ai-search-skill.md)| Add Custom Skill - Azure Function counting top words |
 
 
 ## Vector Based AI Search Labs
@@ -50,3 +50,5 @@ https://github.com/Azure-Samples/azure-search-knowledge-mining/tree/main/worksho
 https://github.com/Azure/azure-search-vector-samples/blob/main/demo-python
 
 https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/announcing-the-public-preview-of-integrated-vectorization-in/
+
+https://github.com/MicrosoftLearning/mslearn-knowledge-mining
